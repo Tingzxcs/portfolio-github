@@ -81,9 +81,10 @@ header {
 }
 
 .img-box img {
-    clip-path: circle();
+    border-radius: 50%;
     width: 300px;
     height: 300px;
+   
 }
 
 ::-webkit-scrollbar {
