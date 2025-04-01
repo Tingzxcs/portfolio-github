@@ -21,6 +21,12 @@ header {
     z-index: 100;
 }
 
+header h1 {
+    color: white;
+    font-weight: 500;
+    font-size: 2em; 
+}
+
 .navbar a {
     font-size: 18px;
     color: white;
